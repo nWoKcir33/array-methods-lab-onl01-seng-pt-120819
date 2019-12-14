@@ -21,5 +21,6 @@ using_last.last
 end
 
 def using_size(array)
-
+using_size = ["apple", "banana", "cat", "dog", "egg", "frog"]
+using_size.size
 end
