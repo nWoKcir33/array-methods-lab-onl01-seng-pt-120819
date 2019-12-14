@@ -11,7 +11,8 @@ array.reverse
 end
 
 def using_first(array)
-
+using_first = ["wow", "banana", "cat", "dog"]
+using_first.first
 end
 
 def using_last(array)
